@@ -90,7 +90,9 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 # 📄 프로젝트
 
-**데이터 분석**
+**NASA Western North American FLEXPART Back Trajectory를 이용한 오존-폭염, 산불 상관 관계 분석**
+<br />
+주요 언어: Python
 <br />
 진행 기간: 2026.04 ~ 2026.04 (약 3일)
 <br />
@@ -103,7 +105,9 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 <br />
 
-**AI 딥러닝**
+**KERAS 및 YOLOv5를 이용한 Deep_Learning 객체 인식 리포트**
+<br />
+주요 언어: Python
 <br />
 진행 기간: 2026.04 ~ 2026.04 (약 3일)
 <br />
@@ -114,7 +118,9 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 <br />
 
-**Flask 웹사이트 작성**
+**Flask를 이용한 YOLOv5 스트리밍 서버 작성**
+<br />
+주요 언어: Python
 <br />
 진행 기간: 2026.05 ~ 2026.05 (약 5일)
 <br />
@@ -127,12 +133,25 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 **팀프로젝트: 유기동물 보호소 관제 시스템**
 <br />
+주요 언어: Python
+<br />
 진행 기간: 2026.05 ~ 2026.06 (약 20일)
 <br />
 
 [팀프로젝트 폴더 바로가기](/Project/Team_Project)
 
 [팀프로젝트 개인리포트](/Project/Team_Project/team_project_portpolio_seoyehyun.pdf)
+
+<br />
+
+**개인프로젝트: Steam Market and Product Metadata를 이용한 장르 및 출시일이 게임 흥행에 미치는 영향 분석**
+<br />
+프로젝트 진행 중.
+<br />
+주요 언어: Python, SQL
+<br />
+진행 기간: 2026.07 ~  (현재 2일째)
+<br />
 
 
 # ✈️ 어학 및 해외경험
