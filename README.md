@@ -62,10 +62,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 **Database**
 
-<!-- SQLAlchemy -->
-<img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<!-- Flask-Migrate -->
-<img src="https://img.shields.io/badge/Flask--Migrate-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" /><img src="https://img.shields.io/badge/Flask--Migrate-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-316B91?style=for-the-badge&logo=MySQL&logoColor=white)
