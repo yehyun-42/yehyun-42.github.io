@@ -61,8 +61,6 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br />
-
 **Data and Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -70,8 +68,6 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br />
 
 **Database**
 
@@ -81,14 +77,10 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-316B91?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<br />
-
 **Web**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br />
 
 **AI**
 
