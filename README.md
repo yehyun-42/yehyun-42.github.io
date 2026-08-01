@@ -52,14 +52,9 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 
 **Data and Analytics**
-<br />
-전처리
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br />
-시각화
 
 <!-- Matplotlib -->
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
@@ -69,16 +64,11 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 
 **Database**
-<br />
-설계 및 관리
 
 <!-- SQLAlchemy -->
 <img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 <!-- Flask-Migrate -->
 <img src="https://img.shields.io/badge/Flask--Migrate-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-
-<br />
-분석
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-316B91?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -86,21 +76,14 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 
 **Web**
-<br />
-Backend
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-<br />
-영상 처리
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 <br />
 
 **AI**
-<br />
-객체 감지
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
