@@ -24,4 +24,5 @@
 <br />
 작성 목적: Flask 및 OpenCV, YOLO를 이용하여 웹사이트 작성 실습.
 <br /><br />
+
 [Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
