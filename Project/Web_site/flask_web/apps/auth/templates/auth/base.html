@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css')}}" />
+</head>
+<body>
+    <div>
+        {% if current_user.is_authenticated %}
+        <p>
+            <span>{{ current_user.username }}</span>
+            <span><a href="{{ url_for('auth.logout') }}">로그아웃</a></span>
+        </p>
+        {% endif %}
+    </div>
+    {% block content %}{% endblock %}
+</body>
+</html>

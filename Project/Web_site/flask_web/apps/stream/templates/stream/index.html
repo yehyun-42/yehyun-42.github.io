@@ -1,0 +1,11 @@
+{% extends "detector/base.html" %}
+{% block content %}
+<head><title>YOLOv5 Live Streaming</title></head>
+    <body style="text-align: center; background-color: #222; color: white;">
+        <h1>YOLOv5 실시간 객체 탐지 스트리밍</h1>
+        <div>
+            <img src="{{ url_for('stream.video_feed') }}" width="800" style="border: 2px solid #fff;"/>
+        </div>
+    </body>
+
+{% endblock %}
