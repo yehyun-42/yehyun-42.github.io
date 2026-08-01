@@ -41,3 +41,102 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 갓 성인이 됐을 때는 평생 학습을 지속해야 한다는 부담과 압박감을 크게 느꼈습니다. 그러나 과학이 아닌 다른 분야에 대한 다양한 경험을 하며, 그 부담감은 흥미와 기대감을 잘못 해석했던 것임을 알게 되었습니다. 호기심은 가장 큰 원동력이 되었고, 방대한 데이터가 두려울지언정 지겹지는 않을 것임을 깨달았습니다.
 <br /><br />
+
+# 🛠️ 기술역량
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br />
+
+**Data and Analytics**
+
+<br />
+
+전처리
+
+<br />
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<br />
+
+시각화
+
+<br />
+
+<!-- Matplotlib -->
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<!-- Seaborn -->
+<img src="https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+<br /><br />
+
+**Database**
+
+<br />
+
+설계 및 관리
+
+<br />
+
+<!-- SQLAlchemy -->
+<img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<!-- Flask-Migrate -->
+<img src="https://img.shields.io/badge/Flask--Migrate-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+
+<br />
+
+분석
+
+<br />
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316B91?style=for-the-badge&logo=MySQL&logoColor=white)
+
+<br /><br />
+
+**Web**
+
+<br />
+
+Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<br />
+영상 처리
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+<br />
+
+**AI**
+<br />
+객체 감지
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+# ✈️ 어학 및 해외경험
+
+**Foreign Language**
+<br />
+일본어: 중급
+<br />
+현지인과 프리토킹 가능. 독해 및 작문 지속 학습 중.
+<br /><br />
+영어: 초급
+<br />
+현지인과 간단한 대화 가능. 프리토킹 및 IELTS 8급 취득을 위해 학습 중.
+<br /><br />
+**Working Holiday**
+<br />
+일본
+<br />
+지역: 홋카이도 삿포로
+<br />
+기간: 2019.11 ~ 2020.11
