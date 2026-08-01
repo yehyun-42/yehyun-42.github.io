@@ -1,12 +1,18 @@
 # 데이터 분석 프로젝트
 <br />
-LaLanguage: Python
+LaLanguage
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br />
-IDE: Jupyter
+IDE
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <br />
-Data & Viz: Pandas, NumPy, Matplotlib, Seaborn
+Data & Viz
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 <br /><br />
-사용 자료:  Western North American FLEXPART Back Trajectory  1994-2021 Merge Data
+사용 자료: Western North American FLEXPART Back Trajectory  1994-2021 Merge Data
 <br />
 (NASA 제공)
 <br /><br />
