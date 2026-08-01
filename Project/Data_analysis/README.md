@@ -12,3 +12,5 @@ Data & Viz: Pandas, NumPy, Matplotlib, Seaborn
 <br /><br />
 분석 목적: 산불과 폭염이 오존에 미치는 영향을 분석하고, 과거와 현재의 오존 농도를 비교하여 오존 농도를 낮출 수 있는 방안 수색.
 <br />
+[데이터 분석 가설 수립](Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf)
+[데이터 분석 리포트](Project/Data_analysis/서예현_data_analysis.pdf)
