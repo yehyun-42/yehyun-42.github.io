@@ -13,8 +13,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 <br />
-데이터프레임
+
+**데이터프레임**
 <br />
+
 1차 시도: [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
+
 <br />
+
 2차 시도: [Steam Market and Product Metadata](https://www.kaggle.com/datasets/mahdiheidarpoor/steam-market-and-product-metadata-935-games)
