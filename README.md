@@ -102,6 +102,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 [데이터 분석 리포트](/Project/Data_analysis/서예현_data_analysis.pdf)
 
 <br />
+
 **AI 딥러닝**
 <br />
 진행 기간: 2026.04 ~ 2026.04 (약 3일)
@@ -112,6 +113,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 [딥러닝 리포트](/Project/Object_Detection/Deep_Learning_portpolio.pdf)
 
 <br />
+
 **Flask 웹사이트 작성**
 <br />
 진행 기간: 2026.05 ~ 2026.05 (약 5일)
@@ -122,6 +124,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 [Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
 
 <br />
+
 **팀프로젝트: 유기동물 보호소 관제 시스템**
 <br />
 진행 기간: 2026.05 ~ 2026.06 (약 20일)
