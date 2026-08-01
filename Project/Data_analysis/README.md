@@ -15,6 +15,4 @@ Data & Viz: Pandas, NumPy, Matplotlib, Seaborn
 
 [데이터 분석 가설 수립](/Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf)
 
-<br />
-
 [데이터 분석 리포트](/Project/Data_analysis/서예현_data_analysis.pdf)
