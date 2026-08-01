@@ -13,6 +13,7 @@
 <br /><br />
 [포트폴리오](/Portfolio/서예현_portfolio.pdf)
 
+<br />
 # 👩‍🎓 학력 및 교육
 
 **2017.03 ~ 2025.05**
@@ -23,6 +24,8 @@
 <br />
 DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 중(K-Digital Traning)
 
+<br />
+
 # 💻 희망분야
 
 데이터 분석
@@ -32,6 +35,8 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 생물정보 관련 업무
 <br />
 백엔드 개발
+
+<br />
 
 # 👩‍💻 About Me
 
@@ -46,6 +51,8 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 **목표와 지향점**
 <br />
 과학에 기반을 둔 도메인 지식과 AI, 데이터 기술을 융합하여, 단순 분석 뿐만 아니라 실질적인 문제 해결에 이바지할 수 있는 개발자로 성장하는 것이 궁극적 목표입니다. 호기심을 원동력 삼아 끝없이 쏟아지는 이론과 지식을 습득하여 보다 깊은 전문성을 갖추고자 합니다.
+
+<br />
 
 # 🛠️ 기술역량
 
@@ -87,6 +94,8 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+<br />
 
 # 📄 프로젝트
 
@@ -154,6 +163,8 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 
 [SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project)
+
+<br />
 
 # ✈️ 어학 및 해외경험
 
