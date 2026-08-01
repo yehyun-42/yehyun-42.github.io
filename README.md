@@ -153,6 +153,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 진행 기간: 2026.07 ~  (현재 2일째)
 <br />
 
+[SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project)
 
 # ✈️ 어학 및 해외경험
 
