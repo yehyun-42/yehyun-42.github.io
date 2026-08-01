@@ -94,6 +94,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 진행 기간: 2026.04 ~ 2026.04 (약 3일)
 <br />
+
 [데이터 분석 폴더 바로가기](/Project/Data_analysis)
 
 [데이터 분석 가설 수립](/Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf)
@@ -104,6 +105,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 진행 기간: 2026.04 ~ 2026.04 (약 3일)
 <br />
+
 [딥러닝 폴더 바로가기](/Project/Object_Detection)
 
 [딥러닝 리포트](/Project/Object_Detection/Deep_Learning_portpolio.pdf)
@@ -113,6 +115,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 진행 기간: 2026.05 ~ 2026.05 (약 5일)
 <br />
+
 [Flask 폴더 바로가기](/Project/Web_site)
 
 [Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
@@ -122,6 +125,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 진행 기간: 2026.05 ~ 2026.06 (약 20일)
 <br />
+
 [팀프로젝트 폴더 바로가기](/Project/Team_Project)
 
 [팀프로젝트 개인리포트](/Project/Team_Project/team_project_portpolio_seoyehyun.pdf)
