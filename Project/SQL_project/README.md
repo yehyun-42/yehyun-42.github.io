@@ -51,3 +51,4 @@ CSV 데이터프레임 자체적인 컬럼 밀림 현상 발견.
 <br />
 전처리 완료 된 데이터프레임을 이용하여 분석 완료.
 <br />
+[데이터 분석 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project/Analysis)
