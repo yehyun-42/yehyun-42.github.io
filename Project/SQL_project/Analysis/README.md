@@ -13,3 +13,22 @@
 게임 가격 별 유저수 분석
 <br />
 개발사 별 평균 유저수 및 평균 긍정 평가 비율
+
+<br />
+
+[SQL 쿼리문](/Project/SQL_project/Analysis/SQLproject_analysis.sql)
+<br />
+
+[유저 테이블](/Project/SQL_project/Analysis/game_table.csv)
+<br />
+
+[장르 테이블](/Project/SQL_project/Analysis/genres_table.csv)
+<br />
+
+[장르 별 Top 10 게임 추천](/Project/SQL_project/Analysis/genre_recomend.csv)
+<br />
+
+['압도적 긍정적' 게임 추천](/Project/SQL_project/Analysis/positive_95_games.csv)
+<br />
+
+[개발사 별 평균 유저수 및 긍정 평가 비율](/Project/SQL_project/Analysis/developer_avg.csv)
