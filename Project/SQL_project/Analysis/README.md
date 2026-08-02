@@ -16,6 +16,9 @@
 
 <br />
 
+[분석 내용 PDF](/Project/SQL_project/Analysis/analysis_notion.pdf)
+<br />
+
 [SQL 쿼리문](/Project/SQL_project/Analysis/SQLproject_analysis.sql)
 <br />
 
