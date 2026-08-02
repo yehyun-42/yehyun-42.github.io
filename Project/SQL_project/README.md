@@ -43,6 +43,8 @@ CSV 데이터프레임 자체적인 컬럼 밀림 현상 발견.
 새로운 데이터프레임을 이용하여 전처리 완료: Pandas 사용.
 <br />
 두 개의 테이블 생성: 유저 평가 테이블, 게임 장르 테이블.
+<br />
+[전처리 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project/Data_Preprocessing)
 <br /><br />
 
 **분석 완료**
