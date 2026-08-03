@@ -1,5 +1,13 @@
 # SQL 데이터 분석
 
+**Language**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**IDE**
+
+![MySQL](https://img.shields.io/badge/MySQL-316B91?style=for-the-badge&logo=MySQL&logoColor=white)
+
 **분석 목표**
 <br />
 장르별 평균 평가 분석
