@@ -54,3 +54,13 @@ CSV 데이터프레임 자체적인 컬럼 밀림 현상 발견.
 전처리 완료 된 데이터프레임을 이용하여 분석 완료.
 <br />
 [데이터 분석 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project/Analysis)
+
+**시각화 완료**
+<br />
+일시: 2026.08.03
+<br />
+장르 별 총 유저 수 분석(막대그래프).
+<br />
+장르 별 평균 유저 수 및 긍정적 평가 비율(산점도).
+<br />
+[시각화 바로가기](/Project/SQL_project/Visualization)
