@@ -142,10 +142,12 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 <br />
 주요 언어: Python, SQL
 <br />
-진행 기간: 2026.07 ~  (현재 2일째)
+진행 기간: 2026.07 ~ 2026.08 (약 5일)
 <br />
 
 [SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project)
+
+[SQL 프로젝트 리포트](/Project/SQL_project/SQL_project_report.pdf)
 
 # ✈️ 어학 및 해외경험
 
