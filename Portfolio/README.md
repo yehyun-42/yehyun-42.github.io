@@ -14,6 +14,9 @@
 [Backend Portfolio](/Portfolio/seoyehyun_portfolio_backend.pdf)
 <br /><br />
 
+**데이터 분석 포트폴리오**
+<br />
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
