@@ -12,6 +12,7 @@
 후회는 필연적이니, 두려워하지 말고 도전하라.
 <br /><br />
 [Backend Portfolio](/Portfolio/seoyehyun_portfolio_backend.pdf)
+<br />
 [Data Analysis Portfolio](/Portfolio/seoyehyun_portfolio_data.pdf)
 
 # 👩‍🎓 학력 및 교육
