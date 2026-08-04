@@ -23,7 +23,7 @@
 <br />
 **2026.03 ~ 2026.10**
 <br />
-DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 중(K-Digital Traning)
+DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 중(K-Digital Training)
 <br />
 **2027.03**
 <br />
