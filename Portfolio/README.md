@@ -11,6 +11,4 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br />
-
 [Backend Portfolio](/Portfolio/seoyehyun_portfolio_backend.pdf)
