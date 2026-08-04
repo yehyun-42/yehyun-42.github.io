@@ -65,3 +65,9 @@ CSV 데이터프레임 자체적인 컬럼 밀림 현상 발견.
 장르 별 평균 유저 수 및 긍정적 평가 비율(산점도).
 <br />
 [시각화 바로가기](/Project/SQL_project/Visualization)
+
+**리포트 작성 완료**
+<br />
+일시: 2026.08.05
+<br />
+[SQL 프로젝트 리포트](/Project/SQL_project/SQL_project_report.pdf)
