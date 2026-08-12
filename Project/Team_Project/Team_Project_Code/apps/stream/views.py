@@ -424,8 +424,8 @@ def video_capture_and_detect():
 def send_alert_email(alert_message):
     smtp_server = "smtp.gmail.com"
     smtp_port = 465  
-    sender_email = "dhkang8817@gmail.com"
-    sender_password = "pqzuqioaxemrsuml"
+    sender_email = "sender_email"
+    sender_password = "sender_password"
 
     if alert_message in TARGET_ANIMALS:
         try:
