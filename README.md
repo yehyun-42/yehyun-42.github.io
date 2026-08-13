@@ -99,7 +99,7 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 [데이터 분석 가설 수립](/Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf)
 
-[데이터 분석 리포트](/Project/Data_analysis/서예현_data_analysis.pdf)
+[데이터 분석 리포트](/Project/Data_analysis/서예현_portfolio_data_analysis.pdf)
 
 <br />
 
