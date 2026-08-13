@@ -21,6 +21,18 @@
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+# 👥 팀 구성 (총 5명)
+
+-Frontend Developer
+<br />
+-AI 학습 담당
+<br />
+-ESP32-CAM 연동 담당
+<br />
+-CRUD 및 auth 등, 사용자 접근성 담당
+<br />
+- **Backend & Database pipeline developer**
+
 # 🌟 프로젝트 내 담당 역할: 백엔드 개발
 
 💾 **Database & Data Management**
