@@ -39,4 +39,4 @@ ESP32-CAM 송출 오류 해결
 <br />
 디스코드 경보 발송: Webhook 연동
 
-[팀프로젝트 개인 리포트](/Project/Team_Project/team_project_portpolio_seoyehyun.pdf)
+[팀프로젝트 개인 리포트](/Project/Team_Project/서예현_portfolio_team_project.pdf)
