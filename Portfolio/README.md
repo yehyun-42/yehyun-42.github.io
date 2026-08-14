@@ -16,7 +16,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[Data Analysis Portfolio](/Portfolio/seoyehyun_portfolio_data.pdf)
+[Data Science Portfolio](/Portfolio/seoyehyun_portfolio_data.pdf)
+<br />
+
+[Data Science Portfolio ENG ver](/Portfolio/seoyehyun_portfolio_data_eng.pdf)
 <br /><br />
 
 **백엔드 포트폴리오**
