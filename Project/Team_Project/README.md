@@ -25,15 +25,9 @@
 
 - Frontend Developer
 
-<br />
-
 - AI 학습 담당
 
-<br />
-
 - ESP32-CAM 연동 담당
-
-<br />
 
 - CRUD 및 auth 등, 사용자 접근성 담당
 
