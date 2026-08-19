@@ -11,7 +11,7 @@
 <br />
 후회는 필연적이니, 두려워하지 말고 도전하라.
 <br /><br />
-[Data Science Portfolio](/Portfolio/seoyehyun_portfolio_data.pdf)
+[Data Science Portfolio](/Portfolio/Data_analysis_portfolio.pdf)
 <br />
 [Data Science Portfolio ENG ver](/Portfolio/seoyehyun_portfolio_data_eng.pdf)
 
