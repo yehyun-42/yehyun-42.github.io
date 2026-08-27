@@ -136,6 +136,8 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 진행 기간: 2026.05 ~ 2026.06 (약 20일)
 <br />
 
+[팀프로젝트 Repository](https://github.com/yehyun-42/Team_Wait_Project.git)
+
 [팀프로젝트 폴더 바로가기](/Project/Team_Project)
 
 [팀프로젝트 개인리포트](/Project/Team_Project/서예현_portfolio_team_project.pdf)
