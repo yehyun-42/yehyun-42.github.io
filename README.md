@@ -11,9 +11,9 @@
 <br />
 후회는 필연적이니, 두려워하지 말고 도전하라.
 <br /><br />
-[Data Science Portfolio](/Portfolio/Data_analysis_portfolio.pdf)
+[Data Analysis Portfolio](/Portfolio/Data_analysis_portfolio.pdf)
 <br />
-[Data Science Portfolio ENG ver](/Portfolio/Data_analysis_portfolio_eng.pdf)
+[Data Analysis Portfolio ENG ver](/Portfolio/Data_analysis_portfolio_eng.pdf)
 
 # 👩‍🎓 학력 및 교육
 
