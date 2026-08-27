@@ -88,6 +88,8 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 
 # 📄 프로젝트
 
+>Data Analysis
+
 **NASA Western North American FLEXPART Back Trajectory를 이용한 오존-폭염, 산불 상관 관계 분석**
 <br />
 주요 언어: Python
@@ -102,6 +104,38 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 [데이터 분석 리포트](/Project/Data_analysis/서예현_portfolio_data_analysis.pdf)
 
 <br />
+
+**개인프로젝트: Steam Market and Product Metadata를 이용한 장르 및 출시일이 게임 흥행에 미치는 영향 분석**
+<br />
+주요 언어: Python, SQL
+<br />
+진행 기간: 2026.07 ~ 2026.08 (약 5일)
+<br />
+
+[SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project)
+
+[SQL 프로젝트 리포트](/Project/SQL_project/SQL_project_report.pdf)
+
+<br />
+
+>Data Engineering
+
+**팀프로젝트: 유기동물 보호소 관제 시스템**
+<br />
+주요 언어: Python
+<br />
+진행 기간: 2026.05 ~ 2026.06 (약 20일)
+<br />
+
+[팀프로젝트 Repository](https://github.com/yehyun-42/Team_Wait_Project.git)
+
+[팀프로젝트 폴더 바로가기](/Project/Team_Project)
+
+[팀프로젝트 개인리포트](/Project/Team_Project/서예현_portfolio_team_project.pdf)
+
+<br />
+
+>AI 및 Backend
 
 **KERAS 및 YOLOv5를 이용한 Deep_Learning 객체 인식 리포트**
 <br />
@@ -126,34 +160,6 @@ DW 아카데미 AIoT기반 드론 영상 관제시스템 개발 과정 수강 �
 [Flask 폴더 바로가기](/Project/Web_site)
 
 [Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
-
-<br />
-
-**팀프로젝트: 유기동물 보호소 관제 시스템**
-<br />
-주요 언어: Python
-<br />
-진행 기간: 2026.05 ~ 2026.06 (약 20일)
-<br />
-
-[팀프로젝트 Repository](https://github.com/yehyun-42/Team_Wait_Project.git)
-
-[팀프로젝트 폴더 바로가기](/Project/Team_Project)
-
-[팀프로젝트 개인리포트](/Project/Team_Project/서예현_portfolio_team_project.pdf)
-
-<br />
-
-**개인프로젝트: Steam Market and Product Metadata를 이용한 장르 및 출시일이 게임 흥행에 미치는 영향 분석**
-<br />
-주요 언어: Python, SQL
-<br />
-진행 기간: 2026.07 ~ 2026.08 (약 5일)
-<br />
-
-[SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project)
-
-[SQL 프로젝트 리포트](/Project/SQL_project/SQL_project_report.pdf)
 
 # ✈️ 어학 및 해외경험
 
