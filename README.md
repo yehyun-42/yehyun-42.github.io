@@ -11,9 +11,7 @@
 <br />
 후회는 필연적이니, 두려워하지 말고 도전하라.
 <br /><br />
-[Data Analysis Portfolio](/Portfolio/Data_analysis_portfolio.pdf)
-<br />
-[Data Analysis Portfolio ENG ver](/Portfolio/Data_analysis_portfolio_eng.pdf)
+Portfolio: Processing...
 
 # 👩‍🎓 학력 및 교육
 
@@ -21,17 +19,21 @@
 <br />
 대전대학교 생명과학과 중퇴
 <br />
+**2026.03 ~ 2026.09**
+<br />
+KDT: DW아카데미 AIoT기반 드론 영상 관제시스템 프로젝트 개발 수강
+<br />
 **2027.03**
 <br />
 방송통신대학교 통계·데이터과학과 편입 예정
 
 # 💻 희망분야
 
+데이터 엔지니어링
+<br />
 데이터 분석
 <br />
-해양 데이터 분석
-<br />
-생물정보 관련 업무
+해양, 생물 관련 분야 희망.
 
 # 👩‍💻 About Me
 
