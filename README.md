@@ -19,11 +19,7 @@
 진행 기간: 2026.04 ~ 2026.04
 <br />
 
-[데이터 분석 폴더 바로가기](/Project/Data_analysis)
-
-[데이터 분석 가설 수립](/Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf)
-
-[데이터 분석 리포트](/Project/Data_analysis/서예현_portfolio_data_analysis.pdf)
+[데이터 분석 폴더 바로가기](/Project/Data_analysis) | [데이터 분석 가설 수립](/Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf) | [데이터 분석 리포트](/Project/Data_analysis/서예현_portfolio_data_analysis.pdf)
 
 <br />
 
@@ -34,9 +30,7 @@
 진행 기간: 2026.07 ~ 2026.08
 <br />
 
-[SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project)
-
-[SQL 프로젝트 리포트](/Project/SQL_project/SQL_project_report.pdf)
+[SQL 프로젝트 폴더 바로가기](https://github.com/yehyun-42/yehyun-42.github.io/tree/main/Project/SQL_project) | [SQL 프로젝트 리포트](/Project/SQL_project/SQL_project_report.pdf)
 
 <br />
 
@@ -49,9 +43,7 @@
 진행 기간: 2026.05 ~ 2026.06
 <br />
 
-[팀프로젝트 폴더 바로가기](/Project/Team_Project)
-
-[팀프로젝트 개인리포트](/Project/Team_Project/서예현_portfolio_team_project.pdf)
+[팀프로젝트 폴더 바로가기](/Project/Team_Project) | [팀프로젝트 개인리포트](/Project/Team_Project/서예현_portfolio_team_project.pdf)
 
 <br />
 
@@ -64,9 +56,7 @@
 진행 기간: 2026.04 ~ 2026.04
 <br />
 
-[딥러닝 폴더 바로가기](/Project/Object_Detection)
-
-[딥러닝 리포트](/Project/Object_Detection/Deep_Learning_portpolio.pdf)
+[딥러닝 폴더 바로가기](/Project/Object_Detection) | [딥러닝 리포트](/Project/Object_Detection/Deep_Learning_portpolio.pdf)
 
 <br />
 
@@ -77,9 +67,7 @@
 진행 기간: 2026.05 ~ 2026.05
 <br />
 
-[Flask 폴더 바로가기](/Project/Web_site)
-
-[Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
+[Flask 폴더 바로가기](/Project/Web_site) | [Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
 
 # 🛠️ 기술역량
 
