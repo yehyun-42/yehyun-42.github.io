@@ -4,7 +4,7 @@
 📧 **E-mail:** 0812yeh@naver.com
 <br />
 💼 [**Linkedin**](www.linkedin.com/in/yehyun-seo)
-📒 [**Notion:**](https://app.notion.com/p/3a7bfca0450d8043b083da080a30e79a?source=copy_link)
+📒 [**Notion**](https://app.notion.com/p/3a7bfca0450d8043b083da080a30e79a?source=copy_link)
 
 # 📄 프로젝트
 
