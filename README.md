@@ -11,7 +11,7 @@
 <br />
 후회는 필연적이니, 두려워하지 말고 도전하라.
 <br /><br />
-Portfolio: Processing...
+[Portfolio](/Portfolio/seoyehyun_portfolio.pdf)
 
 # 👩‍🎓 학력 및 교육
 
