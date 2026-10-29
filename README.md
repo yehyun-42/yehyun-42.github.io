@@ -16,7 +16,7 @@
 <br />
 주요 언어: Python
 <br />
-진행 기간: 2026.04 ~ 2026.04
+진행 기간: 2026.04
 <br />
 
 [데이터 분석 폴더 바로가기](/Project/Data_analysis) | [데이터 분석 가설 수립](/Project/Data_analysis/Data_analysis_Portfolio_Notion.pdf) | [데이터 분석 리포트](/Project/Data_analysis/서예현_portfolio_data_analysis.pdf)
@@ -53,7 +53,7 @@
 <br />
 주요 언어: Python
 <br />
-진행 기간: 2026.04 ~ 2026.04
+진행 기간: 2026.04
 <br />
 
 [딥러닝 폴더 바로가기](/Project/Object_Detection) | [딥러닝 리포트](/Project/Object_Detection/Deep_Learning_portpolio.pdf)
@@ -64,7 +64,7 @@
 <br />
 주요 언어: Python
 <br />
-진행 기간: 2026.05 ~ 2026.05
+진행 기간: 2026.05
 <br />
 
 [Flask 폴더 바로가기](/Project/Web_site) | [Flask 리포트](/Project/Web_site/flask_Seo_yehyun.pdf)
