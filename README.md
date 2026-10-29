@@ -3,17 +3,12 @@
 <br />
 📧 **E-mail:** 0812yeh@naver.com
 <br />
-💼 **Linkedin:** www.linkedin.com/in/yehyun-seo
-<br />
-📒 **Notion:** https://app.notion.com/p/3a7bfca0450d8043b083da080a30e79a?source=copy_link
-<br /><br />
-**좌우명**
-<br />
-후회는 필연적이니, 두려워하지 말고 도전하라.
-<br /><br />
-[Portfolio](/Portfolio/seoyehyun_portfolio.pdf)
+💼 [**Linkedin**](www.linkedin.com/in/yehyun-seo)
+📒 [**Notion:**](https://app.notion.com/p/3a7bfca0450d8043b083da080a30e79a?source=copy_link)
 
 # 📄 프로젝트
+
+[**Portfolio**](/Portfolio/seoyehyun_portfolio.pdf)
 
 >Data Analysis
 
@@ -109,6 +104,11 @@ KDT: DW아카데미 AIoT기반 드론 영상 관제시스템 프로젝트 개발
 해양, 생물 관련 분야 희망.
 
 # 👩‍💻 About Me
+
+**좌우명**
+<br />
+후회는 필연적이니, 두려워하지 말고 도전하라.
+<br /><br />
 
 **관심과 흥미**
 <br />
